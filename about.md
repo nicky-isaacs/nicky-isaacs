@@ -6,7 +6,7 @@ permalink: /about/
 
 I'm a bike rider, software typist, and food enthusiast. Relevant information:
 
-### Jobs
+### Works
   - Twitter 2016-Present:
     - Sr. Software Engineer working on several different stacks and projects.
 rebuilt notification delivery pipeline, improving the quality of the users
