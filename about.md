@@ -4,15 +4,25 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a bike rider, software typist, and food enthusiast. Relevant information:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### Jobs
+  - Twitter 2016-Present:
+    - Sr. Software Engineer working on several different stacks and projects.
+rebuilt notification delivery pipeline, improving the quality of the users
+trends experience, building B2C tools, building internal tools to assist
+bad actor detection, some (ham fisted) model training work
+  - VictorOps 2014-2016:
+    - Software engineer working on backend infrastructure
+  - GNIP (intern) 2014:
+    - Worked as a developer advocate intern
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### Education
+ - University of Colorado at Boulder, MS Business Management
 
+### Bikes
+  - 2016 Santa Cruz Bronson C
+  - 2017 Giant TCX Advanced
 
-[jekyll-organization]: https://github.com/jekyll
+### BBQ
+ - Traeger Pro 22 w/ cold smoke attachment
